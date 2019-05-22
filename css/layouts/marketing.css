@@ -413,7 +413,7 @@ a.pure-button-primary {
 .spacemaker {
     height: 90px;
 }
-@media (min-width: 48em) {
+@media (min-width: 20em and max-width: 48em) {
 
     .colortile {
         min-height: 190px !important;
