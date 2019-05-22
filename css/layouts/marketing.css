@@ -135,7 +135,7 @@ a.pure-button-primary {
 
 .splash-container {
     background: #1f8dd6;
-	background-image: url('https://raw.githubusercontent.com/RowleyWill/whis/master/matchgame/img/herobg.jpg');
+	background-image: url('https://raw.githubusercontent.com/RowleyWill/gryffindor/master/img/herobg.jpg');
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
