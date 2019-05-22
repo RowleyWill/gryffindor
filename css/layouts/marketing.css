@@ -415,8 +415,13 @@ a.pure-button-primary {
 
 @media only screen and (max-width: 720px) {
 
-    colortile {
+    .colortile {
         min-height: 190px !important;
     }
-
+    
+    .splash-container {
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+    
 }
