@@ -217,10 +217,11 @@ a.pure-button-primary {
 /* This is the class used for the main content headers (<h2>) */
 
 .content-head {
-    font-weight: 400;
+    font-weight: 800;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     margin: 2em 0 1em;
+    text-shadow: 0px 0px 1px #d2d2d2;
 }
 
 /* This is a modifier class used when the content-head is inside a ribbon */
@@ -412,8 +413,7 @@ a.pure-button-primary {
 .spacemaker {
     height: 90px;
 }
-
-@media only screen and (max-width: 720px) {
+@media (min-width: 48em) {
 
     .colortile {
         min-height: 190px !important;
