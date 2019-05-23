@@ -390,6 +390,8 @@ a.pure-button-primary {
 
 .dvp {
     background-image: url('https://raw.githubusercontent.com/RowleyWill/whis/master/matchgame/img/mgmlogo.png');
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .puma {
